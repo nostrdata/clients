@@ -1,0 +1,87 @@
+[
+  {
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Daisy",
+  "url": "https://github.com/neb-b/daisy/releases"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Snort", 
+  "url": "https://snort.social/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Astral",
+  "url": "https://astral.ninja/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Coracle",
+  "url": "https://coracle.social/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Nostros",
+  "url": "https://github.com/KoalaSat/nostros/releases"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Arc",
+  "url": "https://github.com/ArcadeLabsInc/arc/releases"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Iris.to",
+  "url": "https://iris.to/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Amethyst",
+  "url": "https://github.com/vitorpamplona/amethyst/releases"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Nozzle",
+  "url": "https://github.com/kaiwolfram/Nozzle/releases"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Notesr",
+  "url": "https://notesr.social/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Camelus",
+  "url": "https://camelus.app/"
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Blockcore Notes",
+  "url": "https://notes.blockcore.net/",
+  "isPWA": true
+},
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Hamstr.to",
+  "url": "https://hamstr.to",
+  "isPWA": true
+}
+]
